@@ -1,7 +1,7 @@
 # spring-cloud-service-registry
 Java, Spring, Microservices, Service Registration and Discovery, Load Balancing
 
-![spring-cloud-service-registry](spring-cloud-service-registry-schema.png?id=1)
+![spring-cloud-service-registry](spring-cloud-service-registry-schema.png?id=2)
 
 __spring-cloud-service-registry-netflix-eureka-server__  
 
